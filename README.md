@@ -25,8 +25,8 @@ Install the necessary dependencies.
 Run the project to start transforming monocular videos into immersive spatial experiences.
 You can either run these effects individually or we have created a streamlit app where you can choose the effect you want to apply.
 The processing of these vids takes a considerable time to generate.
-**
-Some Tips on which type of video would this effect would be comprehensible more clearly-**
+
+**Some Tips on which type of video would this effect would be comprehensible more clearly-**
 For Blurr effect(Depth of Field)- Fast paced videos
 For Depth-Depenedent Lighting-  Underwater videos
 For Parallax effect- Layered videos or videos shot with multi-cameras
