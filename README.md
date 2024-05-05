@@ -1,4 +1,4 @@
-# Visual-Alchemy
+# VisualAlchemy
 Enhancing Monocular Videos with Depth-Based Effects and  Anaglyph Conversion
 
 **Project Description:**
