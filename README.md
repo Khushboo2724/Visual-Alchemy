@@ -37,4 +37,7 @@ The processing of these vids takes a considerable time to generate.
 (I have given a sample vid in the code repo)
 I AM EVEN BETTER GIVING ALL THE OUPUT VIDEO FILES GENERATED IN THE REPO
 
+**Execution steps-**
+To execute individual effects run the python files in the usual way i.e python filename whereas if you want to run the streamlit webapp execute command- streamlit run app_old_static.py 
+
 **Enjoy transforming your videos into captivating spatial experiences with VisualAlchemy!**
