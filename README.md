@@ -18,6 +18,7 @@ VisualAlchemy is a cutting-edge project that focuses on transforming standard mo
 4. Depth-Based Effects: Implement parallax, depth-based lighting, blur effects.
 5. Anaglyph Video Conversion: Convert spatial videos into anaglyph format for 3D viewing.
 6. Monocular Video Processing: All steps are performed on monocular videos captured with a single camera.
+7. The videos used for processing are highly compressed in order for fastly processing
 
 **Usage:**
 Clone the repository to your local machine.
@@ -33,6 +34,7 @@ The processing of these vids takes a considerable time to generate.
 4. For Anaglyph effect- any above generated video on applying effect can be converted into anaglyph to see the effects applied to the videos in a 3D view by using the anaglyph glasses(glasses with red and blue 
    filters on either eye frame)
 5. For 360 degree- Just as much any video will give you the effect
-(I have given a sample vid in the code rep)
+(I have given a sample vid in the code repo)
+I AM EVEN BETTER GIVING ALL THE OUPUT VIDEO FILES GENERATED IN THE REPO
 
 **Enjoy transforming your videos into captivating spatial experiences with VisualAlchemy!**
